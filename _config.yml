@@ -193,4 +193,3 @@ exclude:
   - README.md
   - src
 
-theme: jekyll-theme-minimal

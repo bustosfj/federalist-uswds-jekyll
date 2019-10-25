@@ -193,3 +193,5 @@ exclude:
   - package-lock.json
   - README.md
   - src
+
+theme: jekyll-theme-cayman

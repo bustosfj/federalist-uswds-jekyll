@@ -23,8 +23,8 @@ email:  contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bustosfj.github.io/federalist-uswds-jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/federalist-uswds-jekyll" # the subpath of your site, e.g. /blog
+url: "https://bustosfj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
 twitter: 18F

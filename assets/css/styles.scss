@@ -5,8 +5,8 @@
 //@import "../uswds/css/uswds.min.css";
 //@import "../../src/css/uswds.css";
 // Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
-//$theme-font-path:   '../uswds/fonts';
-//$theme-image-path:  '../uswds/img';
+$theme-font-path:   '../../src/fonts';
+$theme-image-path:  '../../src/img';
 //@import "uswds/uswds";
 @import "../../_sass/uswds/uswds";
 

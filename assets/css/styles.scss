@@ -2,7 +2,8 @@
 ---
 
 // Import the US Web Design System minified CSS
-@import "../uswds/css/uswds.min.css";
+//@import "../uswds/css/uswds.min.css";
+@import "../src/css/uswds.min.css";
 // Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
 //$theme-font-path:   '../uswds/fonts';
 //$theme-image-path:  '../uswds/img';
